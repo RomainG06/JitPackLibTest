@@ -1,0 +1,3 @@
+include ':persoLib'
+include ':app'
+rootProject.name = "PrivateProject"
